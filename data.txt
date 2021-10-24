@@ -1,6 +1,4 @@
-mem,host1,64.23,2020-01-01T00:00:00Z
-mem,host2,72.01,2020-01-01T00:00:00Z
-mem,host1,62.61,2020-01-01T00:00:10Z
-mem,host2,72.98,2020-01-01T00:00:10Z
-mem,host1,63.40,2020-01-01T00:00:20Z
-mem,host2,73.77,2020-01-01T00:00:20Z
+m,host=host1 field1=1.2
+m,host=host2 field1=2.4
+m,host=host1 field2=5i
+m,host=host2 field2=3i
